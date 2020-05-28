@@ -1,0 +1,1 @@
+ao finalizar a musica o programa fecha a aba do google sozinha e abre uma com a nova musica digitada no console... ate voce encerrar o programa.
